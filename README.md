@@ -1,6 +1,7 @@
 <h1 align="center">War Time Communication<br>
-  <img src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG" height="500px" width="800px"><br>
-  S&D</h1><h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i></h3>
+  <img src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG" height="500px" width="800px"></h1>
+<br>
+<h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i></h3>
   
 
 [![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--Idea-blue)](#)
@@ -27,7 +28,7 @@ Many a times we ourselves accidently share secret and highly protected informati
 
 Let's connect on 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/akshatvg/) [![Medium](https://img.shields.io/badge/Medium-Follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@akshatvg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/Medium-Follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@dhairyaostwal)
 
 
 **Star the repo ⭐️ if you like 😄**
