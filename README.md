@@ -4,9 +4,11 @@
 <h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i></h3>
   
 
-[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--Idea-blue)](#)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dhairyaostwal/dokapvt/pulls)
-[![Star Repo](https://img.shields.io/badge/Star%20Repo-Yay-yellow)](https://github.com/dhairyaostwal/dokapvt/stargazers)
+[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](#)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightyellow?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/pulls)
+[![Star Repo](https://img.shields.io/badge/Star--Repo-Thanks-ffc30b?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/stargazers)
+[![Built-with-love](https://img.shields.io/badge/built--with-&hearts;-e11584?&style=for-the-badge)](#)
+
 
 ## Product Idea in Nutshell
 
@@ -28,7 +30,7 @@ Many a times we ourselves accidently share secret and highly protected informati
 
 Let's connect on 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/Medium-Follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@dhairyaostwal)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@dhairyaostwal)
 
 
 **Star the repo ⭐️ if you like 😄**
