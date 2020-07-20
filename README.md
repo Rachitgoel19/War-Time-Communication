@@ -1,7 +1,8 @@
-<h1 align="center">War Time Communication<br>
-  <img src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG" height="500px" width="800px"></h1>
-<br>
-<h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i></h3>
+<h1 align="center">War Time Communication</h1><br>
+  <h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i><br><br>
+  <img align="center" src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG" height="400px" width="650px">
+<br></h3>
+
   
 
 [![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](#)
