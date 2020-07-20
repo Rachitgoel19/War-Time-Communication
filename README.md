@@ -15,19 +15,27 @@
 
 Many a times we ourselves accidently share secret and highly protected information forgeting and blindly trusting the app. 
 
-**What if you could control the security of your info?**
+There have already been various data leaks and yes it's harmful for individual as well as for an organisation.
+
+So, I've come up with a simple Encryption & Decryption algorithm to which using your code, you control the security of the message you're to send.
 
 ## Instructions
 
+**
 ```
 
-1. Clone the repository  using git clone <repo-link> or download zip file
+1. Clone the repository  using git clone https://github.com/dhairyaostwal/War-Time-Communication.git or download zip file
 2. Open home.html
-3. Explore live at 
+3. You can also explore live at 
 
 ```
+**
 
 ## Before you leave 🥺
+
+Hey! I am Dhairya Ostwal, a CSE undergrad from India. I mainly work on frontend web development and love building innovative products. 
+
+🌱 Previously served as a Business Development Intern in a legal-tech startup driving Pre-Sales & Expansion. So, you can also call me *a Business Dev turned **Developer*** 👨🏻‍💻
 
 Let's connect on 
 
