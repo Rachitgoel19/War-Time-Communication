@@ -5,7 +5,7 @@
 
   
 
-[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](https://github.com/dhairyaostwal/War-Time-Communication/blob/master/README.md#product-idea-in-nutshell-)
+[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](https://github.com/dhairyaostwal/War-Time-Communication/blob/master/README.md#product-idea-in-nutshell)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightyellow?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/pulls)
 [![Star Repo](https://img.shields.io/badge/Star--Repo-Thanks-ffc30b?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/stargazers)
 [![Built-with-love](https://img.shields.io/badge/built--with-&hearts;-e11584?&style=for-the-badge)](https://github.com/dhairyaostwal/War-Time-Communication/blob/master/README.md#before-you-leave-)
