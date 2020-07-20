@@ -21,15 +21,15 @@ So, I've come up with a simple Encryption & Decryption algorithm to which using 
 
 ## Instructions
 
-**
 ```
 
-1. Clone the repository  using git clone https://github.com/dhairyaostwal/War-Time-Communication.git or download zip file
+**
+1. Clone the repository *using git clone **https://github.com/dhairyaostwal/War-Time-Communication.git*** or download zip file
 2. Open home.html
 3. You can also explore live at 
+**
 
 ```
-**
 
 ## Before you leave 🥺
 
