@@ -23,11 +23,9 @@ So, I've come up with a simple Encryption & Decryption algorithm to which using 
 
 ```
 
-**
-1. Clone the repository *using git clone **https://github.com/dhairyaostwal/War-Time-Communication.git*** or download zip file
+1. Clone the repository using git clone **https://github.com/dhairyaostwal/War-Time-Communication.git** or download zip file
 2. Open home.html
 3. You can also explore live at 
-**
 
 ```
 
@@ -35,7 +33,7 @@ So, I've come up with a simple Encryption & Decryption algorithm to which using 
 
 Hey! I am Dhairya Ostwal, a CSE undergrad from India. I mainly work on frontend web development and love building innovative products. 
 
-🌱 Previously served as a Business Development Intern in a legal-tech startup driving Pre-Sales & Expansion. So, you can also call me *a Business Dev turned **Developer*** 👨🏻‍💻
+🌱 Previously served as a Business Development Intern in a legal-tech startup driving Pre-Sales & Expansion. So, you can also call me *a **Business Dev turned Developer*** 👨🏻‍💻
 
 Let's connect on 
 
