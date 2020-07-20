@@ -1,14 +1,14 @@
-<h1 align="center">War Time Communication</h1><br>
+<h1 align="center">War Time Communication</h1>
   <h3 align = "center"><i>Creating a safe & secure messaging service resembling war time communication</i><br><br>
   <img align="center" src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG" height="400px" width="650px">
 <br></h3>
 
   
 
-[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](#)
+[![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--idea-blue?&style=for-the-badge)](https://github.com/dhairyaostwal/War-Time-Communication/blob/master/README.md#product-idea-in-nutshell-)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightyellow?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/pulls)
 [![Star Repo](https://img.shields.io/badge/Star--Repo-Thanks-ffc30b?&style=for-the-badge)](https://github.com/dhairyaostwal/dokapvt/stargazers)
-[![Built-with-love](https://img.shields.io/badge/built--with-&hearts;-e11584?&style=for-the-badge)](#)
+[![Built-with-love](https://img.shields.io/badge/built--with-&hearts;-e11584?&style=for-the-badge)](https://github.com/dhairyaostwal/War-Time-Communication/blob/master/README.md#before-you-leave-)
 
 
 ## Product Idea in Nutshell
