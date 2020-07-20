@@ -13,7 +13,7 @@ var alphabet = "abcdefghijklmnopqrstuvwxyz";
 var crypt_msg = '';
 
 function encrypt() {
-    if (code_index === "R") {
+    if (code_index === "r") {
 
         for (var i = 0; i < msg.length; i++) {
             var letter = msg[i];
